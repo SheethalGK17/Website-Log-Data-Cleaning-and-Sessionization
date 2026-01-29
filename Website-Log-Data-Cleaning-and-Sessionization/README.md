@@ -83,8 +83,3 @@ This README documentation
 Final Outcome
 
 The project converts unstructured web server logs into structured, analysis-ready session data. This enables understanding user behavior, session duration, and navigation patterns, which are essential for web analytics and business decision-making.
-
-Author
-
-Abhishek Shukla
-BCA – Big Data Analytics
